@@ -1,5 +1,4 @@
 # TBMI26
-This repository contains assignments and implementations from the course "Neural Networks and Learning Systems" at Linköping University (LiU). The projects explore various machine learning and reinforcement learning techniques, including k-Nearest Neighbors, neural networks, ensemble learning, and Q-learning.
 
 ### k-Nearest Neighbors (kNN)
 - Implements the k-Nearest Neighbors (kNN) algorithm.
