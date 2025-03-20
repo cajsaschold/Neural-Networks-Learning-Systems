@@ -1,17 +1,18 @@
 # TBMI26
-The assignments from the course "Neural Networks and Learning Systems" at LiU. yes
+This repository contains assignments and implementations from the course "Neural Networks and Learning Systems" at Linköping University (LiU). The projects explore various machine learning and reinforcement learning techniques, including k-Nearest Neighbors, neural networks, ensemble learning, and Q-learning.
 
 ## k-Nearest Neighbour
-This Jupyter Notebook contains an implementation of the k-Nearest Neighbors (kNN) algorithm applied to four different datasets. The algorithm's performance on the datasets is evaluated using various metrics, and the optimal value for k is chosen through cross-validation.
+This notebook implements the k-Nearest Neighbors (kNN) algorithm and applies it to four datasets. The model is evaluated using various metrics, and the optimal k-value is determined through cross-validation.
 
-## Single Layer Neural Network
-This Jupyter Notebook contains an implementation of a single layer neural network, using gradient descent and backpropagation to find the optimal weights and biases. The network is used for classifying the instances of four different datasets. The Netwok's preformance on the different datasets is then evaluated by several metrics.
+## Single-Layer Neural Network
+A single-layer neural network trained using gradient descent and backpropagation. The network is used for classification across multiple datasets, and its performance is analyzed using different evaluation metrics.
 
-## Multi Layer Neural Network
-This Jupyter Notebook contains an implementation of a multi layer neural network, using gradient descent and backpropagation to find the optimal weights and biases. The network is used for classifying the instances of four different datasets. The Netwok's preformance on the different datasets is then evaluated by several metrics to determine the optimal number of hidden units in the network to achieve a high accuracy while avoid overfitting. 
+## Multi-Layer Neural Network
+This notebook implements a multi-layer neural network that classifies instances from four datasets. It includes forward pass, backward pass, and weight updates. The analysis explores the trade-off between network depth, accuracy, and overfitting.
 
-## Ensamble Learning: AdaBoost
-This Jupyter Notebook contains an implementation of the AdaBoost algorithm to classify faces in images using Haar features.
+## Ensemble Learning: AdaBoost
+An implementation of the AdaBoost algorithm for face classification using Haar features. The notebook explores the boosting technique and evaluates its impact on classification performance.
 
 ## Reinforcement Learning: Q-Learning
-This Jupyter Notebook contains an implementation of the Q-Learning algorithm to different GridWorld environments. Also demonstrating the impact of hyperparameters such as learning rate, discount factor and exploration rate. 
+A Q-learning implementation applied to various GridWorld environments. The notebook explores hyperparameter tuning, such as learning rate, discount factor, and exploration rate, to optimize reinforcement learning performance.
+
