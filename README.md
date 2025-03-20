@@ -1,5 +1,5 @@
 # TBMI26
-The assignments from the course "Neural Networks and Learning Systems" at LiU
+The assignments from the course "Neural Networks and Learning Systems" at LiU. yes
 
 ## k-Nearest Neighbour
 This Jupyter Notebook contains an implementation of the k-Nearest Neighbors (kNN) algorithm applied to four different datasets. The algorithm's performance on the datasets is evaluated using various metrics, and the optimal value for k is chosen through cross-validation.
